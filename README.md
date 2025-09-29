@@ -8,7 +8,7 @@ A next-generation notebook and toolkit for government policy/data interns, with 
 
 - **Step-by-step guides** for Python, data cleaning, and IoT data parsing  
 - **Best practices** for government policy, data privacy, and ethical analysis  
-- **Resources** for collaboration with Texas A&M Fort Worth and agency partners  
+- **Resources** for collaboration with law schools and agency partners  
 - **False friends glossary** for multilingual and translation pitfalls  
 - **Surveillance & IoT**: Data handling, privacy, and security guides  
 - **Advanced recommendations** for reproducibility, automation, and bias mitigation  
